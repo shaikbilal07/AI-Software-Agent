@@ -1,0 +1,33 @@
+Build a Smart Hospital Management System.
+
+The system should support:
+- Patient registration and login
+- Doctor appointment booking and scheduling
+- Electronic medical records (EMR)
+- Prescription management
+- Billing and invoice generation
+- Lab test management and reports
+
+Users:
+- Admin
+- Doctor
+- Patient
+- Lab Technician
+
+Admin should manage users, doctors, and hospital resources.
+Doctors should view patient history and update prescriptions.
+Patients should book appointments and view reports.
+Lab technicians should upload test results.
+
+The system should be web-based with a clean dashboard and secure authentication.
+
+
+
+##python -m streamlit run app.py
+
+
+Build a Student Attendance System with login, mark attendance, and view reports.
+
+
+PS C:\Users\RO> cd Downloads\AI-Software-Agent
+PS C:\Users\RO\Downloads\AI-Software-Agent> .\venv\Scripts\python.exe -m streamlit run app.py
